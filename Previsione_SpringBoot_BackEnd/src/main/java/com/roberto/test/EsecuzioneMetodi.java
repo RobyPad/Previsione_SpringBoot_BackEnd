@@ -10,7 +10,7 @@ public class EsecuzioneMetodi
 		// TODO Auto-generated method stub
 		
 		/*
-		 * Italia
+		 * Italia serie A 2016/2017
 		 */
 		String url_italia = "https://www.diretta.it/serie-a-2016-2017/";
 		String href_italia = "//a[@href='/serie-a-2016-2017/risultati/']";
