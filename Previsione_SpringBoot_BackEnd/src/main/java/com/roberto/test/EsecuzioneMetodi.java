@@ -17,7 +17,7 @@ public class EsecuzioneMetodi
 		String href_italia = "//a[@href='/serie-a-2016-2017/risultati/']";
 		
 		/*
-		 * Francia ligue 1 2016/2017
+		 * Francia ligue 1 2016-2017
 		 */
 		String url_francia = "https://www.diretta.it/calcio/francia/ligue-1-2016-2017/";
 		String href_francia = "//a[@href='/calcio/francia/ligue-1-2016-2017/risultati/']";
